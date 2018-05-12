@@ -1,7 +1,22 @@
-# Site da OpenStreetMap Brasil
+# Site da Comunidade OpenStreetMap Brasil 
 
-Este é o repositório do site da OpenStreetMap Brasil, uma associação de mapeadores brasileiros.
+Em reformulação. 
 
-## Como ajudar?
+## Desenvolvimento, 
 
-O site é feito em Jekyll. Para rodar localmente, clone o repositório e rode `jekyll serve --watch`.
+### Clone localmente
+
+    git clone <OSM-BR-SITE_GIT_URL>
+
+### Instale dependências
+
+```
+npm install
+```
+### Inicie o servidor
+
+````
+npm run develop
+````
+
+Acesse o servidor em http://localhost:8000. 
