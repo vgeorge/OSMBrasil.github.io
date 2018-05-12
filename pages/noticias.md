@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Notícias
-permalink: /noticias/
+path: noticias
 ---
 
 ## Brasil [![Ícone do RSS para o Brasil][rssicon]][feed.xml]

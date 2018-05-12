@@ -5,6 +5,14 @@ backend:
 media_folder: static/assets
 
 collections:
+  - name: pages
+    label: Pages
+    folder: pages
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
   - name: posts
     label: Posts
     folder: blog
@@ -12,4 +20,4 @@ collections:
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
-      - { name: title, label: Title }
+      - { name: title, label: Title }      

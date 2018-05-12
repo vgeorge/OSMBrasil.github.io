@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Sobre
-permalink: /sobre/
+path: sobre
 ---
 
 Este website é feito pela OpenStreetMap Brasil, uma associação de mapeadores brasileiros do projeto global OpenStreetMap, também conhecido por "OSM" ou "a base de dados OSM".

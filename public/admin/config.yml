@@ -1,16 +1,23 @@
 backend:
   name: github
   repo: vgeorge/osm-br-site
-  branch: refactor-to-jamstack
 
-media_folder: gatsby-site/static/assets
+media_folder: static/assets
 
 collections:
-  - name: blog
-    label: Blog
-    folder: blog
+  - name: pages
+    label: Pages
+    folder: pages
     create: true
     fields:
       - { name: path, label: Path }
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
+  - name: posts
+    label: Posts
+    folder: blog
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }      

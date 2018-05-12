@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Comunidade
-permalink: /comunidade/
+path: comunidade
 ---
 
 O mapa do OpenStreetMap cresce devido à sua comunidade de mapeadores. Os dois principais meios de comunicação da comunidade são a lista de discussão e o fórum. São nesses locais onde discutimos as regras de mapeamento, nos organizamos para monitorar todas as edições realizadas no Brasil e onde organizamos ações como maratonas de mapeamento.

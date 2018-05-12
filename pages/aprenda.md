@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Aprenda
-permalink: /aprenda/
+path: aprenda
 ---
 
 ## Crie uma conta
